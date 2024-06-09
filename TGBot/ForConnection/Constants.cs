@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TGBot.ForSkinPriceAPI
+namespace TGBot.ForConnection
 {
     internal class Constants
     {

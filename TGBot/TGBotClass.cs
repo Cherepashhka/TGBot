@@ -10,7 +10,7 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 using Telegram.Bot.Polling;
 using Telegram.Bot.Exceptions;
-using TGBot.ForSkinPriceAPI;
+using TGBot.ForConnection;
 using Telegram.Bots.Http;
 using Telegram.Bots;
 
