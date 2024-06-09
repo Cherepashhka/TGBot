@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TGBot.ForSkinPriceAPI
 {
-    internal class SkinPriceConstants
+    internal class Constants
     {
         public static string address = "https://localhost:7011";
     }
